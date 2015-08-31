@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Simple Spam Block
-Description: Simple referrer spam blocker that redirects all known spam links back to their own site.  
+Description: Simple referrer spam blocker that redirects spam links back to their own site.  
 Version: 1.0
 Author Innovative Solutions
 Author URI: http://whereyoursolutionis.com 
