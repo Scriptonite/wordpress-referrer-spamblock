@@ -39,7 +39,7 @@ $known=array('buttons-for-website.com',
 'success-seo.com',
 'c3.ezanga.com'
 );
-update_option('wp_spammers',$known);
+add_option('wp_spammers',$known);
 }
 register_activation_hook( __FILE__, 'initial_spammers_load' );
  
